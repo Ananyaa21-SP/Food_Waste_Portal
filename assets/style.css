@@ -1,0 +1,87 @@
+/* Global background & text matching the clean light theme */
+.stApp {
+    background-color: #f8fafc !important;
+    color: #1e293b !important;
+}
+
+/* Fix top page link text colors for light theme visibility */
+[data-testid="stPageLink"] span {
+    color: #1e293b !important;
+    font-weight: 600;
+}
+[data-testid="stPageLink"]:hover span {
+    color: #166534 !important;
+}
+
+/* Hero Banner with your local background image & green overlay */
+.hero-box {
+    background: linear-gradient(rgba(5, 150, 105, 0.85), rgba(16, 185, 129, 0.85)), url('assets/back4.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 35px;
+    border-radius: 12px;
+    color: white;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+/* Metric Cards */
+div[data-testid="stMetric"] {
+    background-color: #ffffff;
+    border: 1px solid #e2e8f0;
+    padding: 16px;
+    border-radius: 10px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+div[data-testid="stMetric"] label {
+    color: #64748b !important;
+    font-weight: 600;
+    font-size: 13px;
+}
+div[data-testid="stMetric"] div[data-testid="stMetricValue"] {
+    color: #0f172a !important;
+    font-weight: 700;
+}
+
+/* Action Buttons & Form Submit Buttons */
+div.stButton > button, 
+div.stFormSubmitButton > button, 
+button[type="submit"] {
+    background-color: #0f172a !important;
+    color: #ffffff !important;
+    font-weight: 600;
+    border-radius: 8px;
+    border: none;
+    width: 100%;
+    padding: 0.5rem;
+}
+
+div.stButton > button *, 
+div.stFormSubmitButton > button *, 
+button[type="submit"] * {
+    color: #ffffff !important;
+}
+
+div.stButton > button:hover, 
+div.stFormSubmitButton > button:hover, 
+button[type="submit"]:hover {
+    background-color: #166534 !important;
+    color: #ffffff !important;
+}
+
+/* Status Badges */
+.status-badge-available { color: #166534; font-weight: bold; }
+.status-badge-booked { color: #d97706; font-weight: bold; }
+.status-badge-donated { color: #2563eb; font-weight: bold; }
+
+/* Form Input Label Fix for Light Theme Visibility */
+label, 
+.stTextInput label, 
+.stNumberInput label, 
+.stDateInput label, 
+.stTextArea label, 
+.stSelectbox label {
+    color: #0f172a !important;
+    font-weight: 600 !important;
+    font-size: 14px !important;
+}
