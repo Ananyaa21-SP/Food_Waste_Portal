@@ -1,0 +1,9 @@
+[client]
+showSidebarNavigation = false
+
+[theme]
+primaryColor = "#22c55e"          # Eco Emerald Green
+backgroundColor = "#0f172a"       # Slate Dark Background
+secondaryBackgroundColor = "#1e293b" # Dark Card & Container Fill
+textColor = "#f8fafc"             # Crisp White Text
+font = "sans serif"
