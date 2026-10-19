@@ -1,0 +1,51 @@
+id,donor_id,Sector,Item Name,Quantity,Log Date,expiry_date,Notes,Status
+RST-1001,2,Restaurant,Dairy Products,29.7,2026-08-30,2026-09-01,Bistro Bites,Booked
+RST-1002,2,Restaurant,Dairy Products,26.4,2026-09-11,2026-09-12,Bistro Bites,Available
+RST-1003,2,Restaurant,Cooked Meals,4.2,2026-09-13,2026-09-14,Grand Buffet,Available
+RST-1004,2,Restaurant,Dairy Products,14.8,2026-09-07,2026-09-09,Urban Cafe,Discarded
+RST-1005,2,Restaurant,Dairy Products,8.7,2026-09-15,2026-09-16,Grand Buffet,Discarded
+RST-1006,2,Restaurant,Dairy Products,28.4,2026-09-08,2026-09-10,Grand Buffet,Discarded
+RST-1007,2,Restaurant,Cooked Meals,18.7,2026-09-14,2026-09-16,Grand Buffet,Available
+RST-1008,2,Restaurant,Cooked Meals,17.8,2026-09-08,2026-09-09,Grand Buffet,Donated
+RST-1009,2,Restaurant,Dairy Products,16.5,2026-09-04,2026-09-05,Bistro Bites,Donated
+RST-1010,2,Restaurant,Dairy Products,27.2,2026-09-10,2026-09-11,Bistro Bites,Discarded
+RST-1011,2,Restaurant,Cooked Meals,17.6,2026-09-17,2026-09-18,Urban Cafe,Available
+RST-1012,2,Restaurant,Cooked Meals,3.9,2026-09-10,2026-09-12,Grand Buffet,Donated
+RST-1013,2,Restaurant,Dairy Products,3.3,2026-09-13,2026-09-15,Bistro Bites,Available
+RST-1014,2,Restaurant,Dairy Products,26.3,2026-08-31,2026-09-01,Grand Buffet,Available
+RST-1015,2,Restaurant,Cooked Meals,13.5,2026-09-08,2026-09-09,Urban Cafe,Discarded
+RST-1016,2,Restaurant,Cooked Meals,28.7,2026-09-20,2026-09-21,Urban Cafe,Available
+RST-1017,2,Restaurant,Dairy Products,7.3,2026-08-31,2026-09-02,Grand Buffet,Available
+RST-1018,2,Restaurant,Dairy Products,18.8,2026-09-01,2026-09-03,Urban Cafe,Discarded
+RST-1019,2,Restaurant,Dairy Products,29.2,2026-09-23,2026-09-25,Bistro Bites,Available
+RST-1020,2,Restaurant,Dairy Products,15.7,2026-09-23,2026-09-24,Royal Spice Hotel,Discarded
+RST-1021,2,Restaurant,Dairy Products,6.0,2026-09-15,2026-09-17,Urban Cafe,Donated
+RST-1022,2,Restaurant,Cooked Meals,29.4,2026-09-10,2026-09-11,Royal Spice Hotel,Donated
+RST-1023,2,Restaurant,Dairy Products,20.9,2026-09-10,2026-09-12,Bistro Bites,Available
+RST-1024,2,Restaurant,Dairy Products,14.1,2026-09-16,2026-09-18,Royal Spice Hotel,Donated
+RST-1025,2,Restaurant,Dairy Products,14.0,2026-09-03,2026-09-05,Royal Spice Hotel,Discarded
+RST-1026,2,Restaurant,Dairy Products,29.4,2026-09-01,2026-09-03,Urban Cafe,Donated
+RST-1027,2,Restaurant,Dairy Products,7.5,2026-09-27,2026-09-28,Grand Buffet,Donated
+RST-1028,2,Restaurant,Dairy Products,7.9,2026-09-23,2026-09-24,Grand Buffet,Available
+RST-1029,2,Restaurant,Dairy Products,5.8,2026-09-26,2026-09-28,Bistro Bites,Available
+RST-1030,2,Restaurant,Cooked Meals,10.9,2026-09-17,2026-09-19,Grand Buffet,Donated
+RST-1031,2,Restaurant,Cooked Meals,20.1,2026-09-11,2026-09-13,Urban Cafe,Available
+RST-1032,2,Restaurant,Cooked Meals,13.2,2026-09-10,2026-09-12,Royal Spice Hotel,Discarded
+RST-1033,2,Restaurant,Cooked Meals,3.8,2026-09-28,2026-09-30,Royal Spice Hotel,Donated
+RST-1034,2,Restaurant,Cooked Meals,16.1,2026-09-01,2026-09-02,Royal Spice Hotel,Donated
+RST-1035,2,Restaurant,Dairy Products,21.3,2026-09-18,2026-09-20,Grand Buffet,Donated
+RST-1036,2,Restaurant,Cooked Meals,24.3,2026-09-05,2026-09-07,Bistro Bites,Donated
+RST-1037,2,Restaurant,Cooked Meals,20.6,2026-09-19,2026-09-21,Bistro Bites,Available
+RST-1038,2,Restaurant,Cooked Meals,27.7,2026-08-30,2026-09-01,Grand Buffet,Available
+RST-1039,2,Restaurant,Dairy Products,24.8,2026-09-28,2026-09-29,Grand Buffet,Donated
+RST-1040,2,Restaurant,Cooked Meals,25.4,2026-09-05,2026-09-07,Bistro Bites,Discarded
+RST-1041,2,Restaurant,Dairy Products,28.0,2026-09-13,2026-09-14,Bistro Bites,Discarded
+RST-1042,2,Restaurant,Cooked Meals,14.6,2026-09-20,2026-09-22,Bistro Bites,Discarded
+RST-1043,2,Restaurant,Cooked Meals,26.0,2026-09-22,2026-09-24,Bistro Bites,Donated
+RST-1044,2,Restaurant,Dairy Products,3.1,2026-09-10,2026-09-11,Royal Spice Hotel,Discarded
+RST-1045,2,Restaurant,Dairy Products,24.7,2026-09-14,2026-09-15,Urban Cafe,Donated
+RST-1046,2,Restaurant,Cooked Meals,21.7,2026-09-01,2026-09-02,Urban Cafe,Available
+RST-1047,2,Restaurant,Dairy Products,7.0,2026-09-28,2026-09-30,Urban Cafe,Donated
+RST-1048,2,Restaurant,Dairy Products,3.1,2026-09-05,2026-09-06,Grand Buffet,Available
+RST-1049,2,Restaurant,Cooked Meals,11.8,2026-09-11,2026-09-12,Royal Spice Hotel,Available
+RST-1050,2,Restaurant,Dairy Products,27.5,2026-09-18,2026-09-20,Bistro Bites,Donated
