@@ -85,3 +85,9 @@ label,
     font-weight: 600 !important;
     font-size: 14px !important;
 }
+
+/* Make text white while typing in the Location text area */
+.stTextArea textarea {
+    color: #ffffff !important;
+    background-color: #1e293b !important;
+}
