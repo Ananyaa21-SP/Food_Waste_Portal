@@ -86,8 +86,23 @@ label,
     font-size: 14px !important;
 }
 
-/* Make text white while typing in the Location text area */
-.stTextArea textarea {
-    color: #ffffff !important;
-    background-color: #1e293b !important;
+/* Force Streamlit metric sub-text / delta elements to be dark and high-contrast */
+[data-testid="stMetricDelta"] {
+    color: #0f172a !important; /* Crisp dark slate color */
+}
+
+/* Force the small trend arrow icon to be dark as well */
+[data-testid="stMetricDelta"] svg {
+    fill: #0f172a !important;
+}
+
+/* If you used custom HTML spans/pills inside the metric cards, make them visible */
+div[data-testid="metric-container"] span, 
+div[data-testid="metric-container"] p {
+    color: #1e293b !important;
+}
+
+/* Fix Streamlit warning / alert box text visibility */
+.stAlert, .stAlert p, div[data-baseweb="notification"] p, div[data-baseweb="notification"] span, div.stWarning p {
+    color: #0f172a !important;
 }
